@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Hazem Eissa</h2>
 
-I'm an **AI Solutions Analyst** from **Cairo, Egypt**, fueled by a passion for researching how AI can revolutionize business solutions.  
+I'm an **AI Solutions Analyst**, fueled by a passion for researching how AI can revolutionize business solutions.  
 At **Crystal Mind Enterprise Group**, I’m immersed in R&D — exploring cutting-edge AI and ERP technologies to push the boundaries of enterprise efficiency.
 
 ---
