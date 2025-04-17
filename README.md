@@ -30,7 +30,7 @@ I'm always digging into new AI techniques — from advanced data retrieval to pr
 ### 🛠️ Tech Stack
 
 **AI & ML:**  
-ChromaDB · RAG · LangChain · Ollama · PyTorch · TensorFlow · Scikit-learn · SpaCy · Prophet · Hugging Face Diffusers · Stable Baselines3 · Apriori · FP-Growth
+ChromaDB · RAG · LangChain · Ollama · PyTorch · TensorFlow · Scikit-learn · SpaCy · Hugging Face Diffusers · Apriori · FP-Growth
 
 **Data Analytics:**  
 Python · Pandas · Dask · Plotly · Matplotlib · NetworkX · PyPDF2 · Apache Spark
